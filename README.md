@@ -326,3 +326,5 @@ The Society exists so that the knowledge we've built — in sovereign infrastruc
 **2026 · All knowledge MIT licensed · All craft freely given**
 
 </div>
+
+![](https://sovereign-analytics.snapkittywest.workers.dev/canary/saint-errant-digital-society)
